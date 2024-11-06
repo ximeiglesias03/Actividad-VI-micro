@@ -39,8 +39,8 @@ int main() {
     setup();
 
     // Texto a mostrar en la pantalla
-    const char* nombre = "Tu Nombre";
-    const char* apellidos = "Tus Apellidos";
+    const char* nombre = "Ximena";
+    const char* apellidos = "Montoya Iglesias";
 
     // Crear el texto completo a mostrar
     char textoCompleto[50];
